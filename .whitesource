@@ -23,9 +23,9 @@
     {
         "matchHost": "https://wsdev.jfrog.io/artifactory/api/nuget/sami-nuget-local",
         "hostType": "nuget",
-        "userName": "sultanabubaker",
+        "userName": "itay.badichi@mend.io",
         "encrypted": {
-          "password": "wcBMA90FtVIhcznKAQgAlzw7JrFYJGm3CxWRUFKj1iqpt+P6gRFfu30IEuWqOU5eZoypxwNDR+kK3uL+1sYSCj8eoEW5WMkjvmRLHZa5OhOI5URINlHYdwV6CqkRhoum47rrE7oB84LBhFq3BsEap0rpJEkpWeA2HXdQWbbYdA7HwvC0wiEY1q/NnDlYJfN8zn+zvB4+izo1RbdfhA/Vu1OjjS0Ui60KoFeTX1QOemp4eA4bv0vdWLZYjb5rM1WW/ZDwSSEhoDhcbqjxM1C5xmOSXWIHRuGFtrH4HnOHAtQb5h6dgZIFfICxzuDSfdddfNa7DbhjxPmzTmoMU5hKGmcrWTi92hnz47z9qL28zNJfAfTpp0bBll8XcoZt88RDGZtIF14Pbg6ObP18DhuZ8dDgLvaz/OT1UMqgvs9hW/dr1MK0uFucn6I0tn6FNfr4F1ymXL2z+PdZ5dxlHDrJAYh5tdaxOX5MfEEpqDrQxdY"
+          "password": "wcFMAyFphRBzkfw8AQ//buZvSyiPEnL5yRg7yQUnAAxNp7pZiDuBrPwo3WcwgBn8jx2atXCuo9XI6riUJRLh+a1eS+6/UqRjFxUX8PhSQ4GbTIFUiRVtnT8W6SXgiBpMThtC7mTxPDOPmkrCtuQKDk+CAWvzRjTuGUOfhzCcXFQXp4C7hvtxYeh76qGq0wmARHmJT064MocGmKjERDqZfnWfNhD7D+aO6/OmIAs4kxxoS7wjgdTa8gIhjxg6Rjf/tJVGPOav3VB8e3n4C3Fiy0mkRNPGoPXD07SXn+LJTVk7lfX8HsqGzXpZxQaGlrNdg0oqmgfgfD0Q4QMR7wfzbHeJEk+pxL/YleS6DmPpARN/kUAiMjMLG1OB5F5ipxaVD633aTs6TQzkH+9H7iQ+gTL2kJIKJnbTVvNFEYXm783TMG0Uu8zfzWqGQy6/N2SoUQp9WceNeJCaGd2XAmSSUN2epm8Q0sw4DQvkzoNMlWXE+JPh0oN86j49/cUxCc1FsXHHF+0kbl67TB4BuRT2d21OvYE4E41FUV92OHG/pBvR1HKpv+r1EEoacld/FTVkAoth7mD/8h4WqJVWOwclMPOotj0T2Z7nppvw8eK+yKMd0Nxyn2002V3he6xaulZ7m8n+UswPTcN1wXfeypG87IuQV8Ca7c57QQBa3PWrFbDZORVQov+Th8rVz3CmJiLSaQFVBuFEZ6tSdQTZk+RgD5x51OyF6cGoZyXyQOJdn6zfAlWeUQpyJHQaY7bBfmUn3z4SeOJB7O+gGVCkb0ndoa9Q6CngsctTxk8y76TGa2DDN+ckUFSx23YVc4WrEw/tu8AXNjngJZ7cmg"
     }
    }
   ]
